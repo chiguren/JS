@@ -1,5 +1,5 @@
 {
-    //"spider" : "./w.jar",
+    "spider" : "https://chiguren.github.io/JS/w.jar",
     "sites" : [
             {
             "key" : "drpy_js_豆瓣",
